@@ -1,5 +1,11 @@
 # playground\_\_changesets_action
 
+## 0.2.2
+
+### Patch Changes
+
+- [`197db00`](https://github.com/re-taro/playground_changesets_action/commit/197db00cf0c338ff3d1afc79f5960b0a19a5169e) Thanks [@re-taro](https://github.com/re-taro)! - fuga
+
 ## 0.2.1
 
 ### Patch Changes
