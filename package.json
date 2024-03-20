@@ -1,0 +1,10 @@
+{
+  "name": "playground__changesets_action",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@8.15.5+sha256.4b4efa12490e5055d59b9b9fc9438b7d581a6b7af3b5675eb5c5f447cee1a589",
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.5.0",
+    "@changesets/cli": "^2.27.1"
+  }
+}
