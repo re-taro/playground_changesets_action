@@ -1,5 +1,11 @@
 # playground\_\_changesets_action
 
+## 0.2.1
+
+### Patch Changes
+
+- [`2dc7ab3`](https://github.com/re-taro/playground_changesets_action/commit/2dc7ab3d260c402baeb7bb61945debe207d650cd) Thanks [@re-taro](https://github.com/re-taro)! - hoge
+
 ## 0.2.0
 
 ### Minor Changes
